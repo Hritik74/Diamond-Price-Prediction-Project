@@ -1,6 +1,6 @@
-- This is my end to end project
+- # This is my end to end project
 
-- First initialize the git
+- # First initialize the git
 
 ```
 git init
@@ -28,7 +28,7 @@ bash your_file_name.sh
 python setup.py install
 ```
 
-# another way you can mention -e . in your requirement file and you can run
+- #  There is an another way for installing local packages. You can mention -e . in your requirement file and you can run
 
 ```
 pip install -r requirements.txt
